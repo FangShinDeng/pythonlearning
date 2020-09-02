@@ -37,3 +37,6 @@
     i. 字串跟數字不能一起用, 用format來帶入動態參數,並將不同類型的參數轉換成str<br>
     j. 當遇到字串裡面有單引號或雙引號時, 在雙引號貨單引號前加上\<br>
     k. 還有很多其他內建用法 具體請參考https://www.w3schools.com/python/python_strings.asp的下方內容
+7. boolean.py
+    使用bool()去判斷不同的內容，回傳True or False
+    使用內建函數 isinstance(x,int)去判斷是否為整數
