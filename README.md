@@ -47,3 +47,6 @@
     list常用函式, append, insert, remove, pop, del, clear, copy, extend<br>
 10. sets.py<br>
     set跟list最大的差別在於set不能接受重複值,list可以, set是無序的, list為有序的, 參考文獻: https://www.itread01.com/content/1517808043.html<br>
+11. dictionaries.py<br>
+    dictionaries 跟API接口是密不可分, 要好好學習<br>
+    主要函式大多都相同,但要特別注意key跟value的概念!<br>
