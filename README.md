@@ -41,5 +41,8 @@
     使用bool()去判斷不同的內容，回傳True or False<br>
     使用內建函數 isinstance(x,int)去判斷是否為整數<br>
 8. operator.py<br>
-    加減乘除,餘數,次方,取整數位,邏輯閘,基本邏輯式判斷,is and in用法
+    加減乘除,餘數,次方,取整數位,邏輯閘,基本邏輯式判斷,is and in用法<br>
+9. list.py<br>
+    使用list學習列表的處理函式,包含新增,刪除,插入,修改,打印<br>
+    list常用函式, append, insert, remove, pop, del, clear, copy, extend
     
