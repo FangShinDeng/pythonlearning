@@ -21,7 +21,7 @@
     e. Set Types:	set, frozenset<br>
     f. Boolean Type:	bool<br>
     g. Binary Types:	bytes, bytearray, memoryview<br>
-    補充: list與tuple的差別主要在於tuple裡面的元素值不能修改<br>
+    補充1: list與tuple的差別主要在於tuple裡面的元素值不能修改<br>
 5. numbers.py<br>
     nubmers共有三種, int, float, complex<br>
     若要新增random亂數, 可以用內建 import random<br>
@@ -44,5 +44,6 @@
     加減乘除,餘數,次方,取整數位,邏輯閘,基本邏輯式判斷,is and in用法<br>
 9. list.py<br>
     使用list學習列表的處理函式,包含新增,刪除,插入,修改,打印<br>
-    list常用函式, append, insert, remove, pop, del, clear, copy, extend
-    
+    list常用函式, append, insert, remove, pop, del, clear, copy, extend<br>
+10. sets.py<br>
+    set跟list最大的差別在於set不能接受重複值,list可以, set是無序的, list為有序的, 參考文獻: https://www.itread01.com/content/1517808043.html<br>
