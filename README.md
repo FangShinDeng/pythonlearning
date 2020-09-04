@@ -50,3 +50,9 @@
 11. dictionaries.py<br>
     dictionaries 跟API接口是密不可分, 要好好學習<br>
     主要函式大多都相同,但要特別注意key跟value的概念!<br>
+12. elseif.py<br>
+    要會使用縮寫法<br>
+13. while.py<br>
+    a. break斷點, 直接跳出整個迴圈<br>
+    b. contiune換迭代, 跳出當次迴圈繼續執行<br>
+    c. 注意while可以跟else搭配使用!<br>
