@@ -56,3 +56,10 @@
     a. break斷點, 直接跳出整個迴圈<br>
     b. contiune換迭代, 跳出當次迴圈繼續執行<br>
     c. 注意while可以跟else搭配使用!<br>
+14. function.py<br>
+    要特別注意,function(*arg)及function(**arg)的用法<br>
+    *為tuple, **為dict的不同資料類型<br>
+    參考文獻: https://blog.csdn.net/u010758410/article/details/71727822<br>
+    遞迴性,函式裡能用自己的函示去遞減, Recursion<br>
+15. lambda.py<br>
+    匿名函式<br>
