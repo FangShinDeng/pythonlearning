@@ -63,3 +63,10 @@
     遞迴性,函式裡能用自己的函示去遞減, Recursion<br>
 15. lambda.py<br>
     匿名函式<br>
+16. class.py<br>
+    創建類別、建立實例<br>
+17. inheritance.py<br>
+    創建父子類別,用子類別繼承父類別的定義<br>
+18. iterator.py<br>
+    迭代器，先定義類別建成實例後，用iter(class)定義迭代,然後再去打印迭代內內容<br>
+    若要停止迭代則使用raise StopInteration<br>
