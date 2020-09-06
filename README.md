@@ -70,3 +70,11 @@
 18. iterator.py<br>
     迭代器，先定義類別建成實例後，用iter(class)定義迭代,然後再去打印迭代內內容<br>
     若要停止迭代則使用raise StopInteration<br>
+19. module.py<br>
+    學習創建自己的模塊，引用模塊，查看模塊中的內容<br>
+20. datelearning.py<br>
+    學習使用import datetime模塊<br>
+21. mathlearning.py<br>
+    學習使用import math模塊<br>
+22. jsonlearning.py<br>
+    學習使用import json模塊<br>
