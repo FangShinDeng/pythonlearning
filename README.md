@@ -78,3 +78,34 @@
     學習使用import math模塊<br>
 22. jsonlearning.py<br>
     學習使用import json模塊<br>
+
+## 學習用python處理檔案
+    f = open("檔案名稱","模式")
+
+    1. 創建檔案
+        f = open("demo.txt", "w+")
+    2. 寫入Hello world
+        doc = f.write("Hello world \n")
+    3. 寫入多組迴圈
+        for i in range(10):
+            f.write("This is the number: %s \r" % i)
+        pass
+    4. 關閉檔案
+        f.close()
+    5. 重新開啟檔案，加入新內容
+        f = open("demo.txt","a+")
+        for i in range(2):
+            f.write("Append line: %d \r" % i)
+        pass
+    6. 讀取檔案
+        f = open("demo.txt", "r")
+        if f.mode == 'r':
+            contents = f.read()
+            print(contents)
+    7. 刪除檔案
+        import os
+        if os.path.exists("demo.txt"):
+            os.remove("demo.txt")
+        else:
+            print("File is not exist")
+
